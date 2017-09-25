@@ -5,5 +5,5 @@ class TicTacToe
   end
 
 
-  
+
 end
